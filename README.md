@@ -33,3 +33,5 @@ Neighborhood size was varied from 1 to 50 and the optimal value was selected bas
 
 Testing accuracy obtained with optimal neighborhood size was 94.60% and 94.26% for PCA and raw feature based KNN respectively.
 
+### NOTE:
+View the python notebook <a href="https://nbviewer.jupyter.org/github/tusharsircar95/PCA-Based-KNN-MNIST-Classification/blob/master/main.ipynb">here</a> in case it doesn't load on Github
