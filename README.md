@@ -2,7 +2,7 @@
 
 ## MNIST DATASET
 
-28x28 images of digits 0-10 were downloaded. Out of those 30,000 random images were selected for processing.
+28x28 images of digits 0-10 were downloaded. Out of those 15,000 random images were selected for processing.
 These were divided into train (60%), validation(20%) and test(20%) sets.
 ```
 # Fetch MNIST dataset
