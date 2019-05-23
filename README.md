@@ -1,4 +1,4 @@
-# PCA Based K-Nearest Neighbor Classification of MNIST data
+# PCA Based K-Nearest Neighbor Classification of MNIST Data
 
 ## MNIST DATASET
 
@@ -9,7 +9,7 @@ These were divided into train (60%), validation(20%) and test(20%) sets.
 data, labels = fetch_openml('mnist_784', version=1, return_X_y=True)
 ```
 ```
-# Retain 30,000 random images and divide into train, validation and test
+# Retain 15,000 random images and divide into train, validation and test
 trainX,trainY,valX,valY,testX,testY = prepare_dataset(data,labels,DATA_SPLIT_RATIO=[0.6,0.2,0.2],retain=15000)
 ```
 
